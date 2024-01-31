@@ -1,0 +1,61 @@
+.timerBtn{
+    width: 80px;
+    height: 35px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: darkcyan;
+    color: aliceblue;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+#timeDisplay{
+    font-size: 75px;
+    color:rgb(29, 148, 77);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#timeContainer{
+
+    padding: 20px;
+    width: max-content;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 20px;
+    background-color: #434c61;
+}
+#lapContainer{
+
+    padding: 6px;
+    width: 175px;
+    text-align: left;
+    text-wrap:nowrap;
+    border: 3px;
+    border-radius: 5px;
+    background-color: darkcyan;
+}
+#lapBtn{
+    background-color: dimgray;
+}
+.lapTime{
+
+    height: 20px;
+    border: 1px solid;
+    padding: 5px;
+    background-color: darkcyan;
+    color: aliceblue;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+#space1{
+    padding: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.clockLabel{
+    padding: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:cornflowerblue;
+}
